@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "upstream": {
+    "repo": "pbakaus/impeccable",
+    "commit": "00d485659af82982aef0328d0419c49a2716d123"
+  },
+  "transform": {
+    "packageMode": "single-bundle",
+    "bundleSkill": "ui",
+    "sourcePath": ".agents/skills"
+  },
+  "syncedAt": "2026-04-14T04:44:05.946Z",
+  "skills": {
+    "adapt": {
+      "upstreamSkill": "adapt",
+      "upstreamSkillMdHash": "4d8218605f1aa3e5eaecc6ffcd1903a7197c96c59292a4f43f140de117e0237d",
+      "bundledReferenceHash": "0ce2a7fb5e25f0499d5da925b24c6ea50ac760824e71f8398f53279ffc4a7020"
+    },
+    "animate": {
+      "upstreamSkill": "animate",
+      "upstreamSkillMdHash": "8c3fa9a748670889c728a558c1f203278a29199a175174674b8d4acc9d51939b",
+      "bundledReferenceHash": "79fd1948fd6e77a5fa97a44759b88c3cbae08dc12ac7e72e9f4a2e2c3e482fb2"
+    },
+    "audit": {
+      "upstreamSkill": "audit",
+      "upstreamSkillMdHash": "877a126d91e1f72137ea94309282beca2fc756167aa38d27fd8e8eac70dc79d6",
+      "bundledReferenceHash": "debc337d9b94d9085a9f5c0f61db2ee0072d7c55da2d20fd3dc211a4db22ee0c"
+    },
+    "bolder": {
+      "upstreamSkill": "bolder",
+      "upstreamSkillMdHash": "2d4df2c1a6ffd3b70099e2a240baf85dbab3146a7cb4f2a7ea66ed95aafb0037",
+      "bundledReferenceHash": "ff045f83692458952f1dca479c25c389fa2d8933fa7d1f6f27fda2f8f5813aca"
+    },
+    "clarify": {
+      "upstreamSkill": "clarify",
+      "upstreamSkillMdHash": "fadbe45be1fdd0920be57def2ea2af2dc4518de3044f94ffd14ff3fca169bec5",
+      "bundledReferenceHash": "69a91587cb34f3464bdaa06043a8af65c5481bcd4fe02a91be4e0b248c1ab20e"
+    },
+    "colorize": {
+      "upstreamSkill": "colorize",
+      "upstreamSkillMdHash": "60b8240ad2e5e664ef6709f0a5f8f1f36ace59754e6cbc62dabc32159b4ede20",
+      "bundledReferenceHash": "20964fca3fa45bb5092ec04bdc93cc04ef5b0295a5fc14316e77c8d769cef213"
+    },
+    "critique": {
+      "upstreamSkill": "critique",
+      "upstreamSkillMdHash": "fd4629ea70b763def79aa87bf113b0c810faafe7949ca49975b7fa1f1ed52a04",
+      "bundledReferenceHash": "ed3938e9668b71afd936cc808eb8190206c0e5e51d4630c4a991da7880bdcbc3"
+    },
+    "delight": {
+      "upstreamSkill": "delight",
+      "upstreamSkillMdHash": "dc1842f17ddffcff0afb7789d3e0e2b1c4f8cccb2528fe5117f7517255044f76",
+      "bundledReferenceHash": "c79638106eb119daa076b2793f645bd8bb9186e33832f14a95a345a17d9078d1"
+    },
+    "distill": {
+      "upstreamSkill": "distill",
+      "upstreamSkillMdHash": "2aa5d9b86377c552d6bcf352bed70fb8ed0a4c15e0eef83296ceaf143a28a326",
+      "bundledReferenceHash": "70c5e2e781ee2abdfc2cc3ee9f6dfab25fa5538337ad77e093118587df50855f"
+    },
+    "harden": {
+      "upstreamSkill": "harden",
+      "upstreamSkillMdHash": "6595a00f6cc66f80fadf840c99a95ce51342588c0a9d1f55fc868ccf51e86575",
+      "bundledReferenceHash": "6595a00f6cc66f80fadf840c99a95ce51342588c0a9d1f55fc868ccf51e86575"
+    },
+    "impeccable": {
+      "upstreamSkill": "impeccable",
+      "upstreamSkillMdHash": "53780a713d4400931342c751c984cac384ae90956556a0e514a5eb452f8b6a33",
+      "bundledReferenceHash": "fa9a5bac2e6017ed9a13e76fb10441213df6b287f1b7db841ed19a693be7ef96"
+    },
+    "layout": {
+      "upstreamSkill": "layout",
+      "upstreamSkillMdHash": "2bc3f90b39c819157756220df92c45e0ead9690a0d49f4087286320aebd46a17",
+      "bundledReferenceHash": "8e9b477324f02356e23f0e13323890267ab57aa4d7ffecb2e102343d26c4502e"
+    },
+    "optimize": {
+      "upstreamSkill": "optimize",
+      "upstreamSkillMdHash": "02183edcc94de3f0208fd993fc4ac1e328c9f5a65f32a7439c964ea841acd1e0",
+      "bundledReferenceHash": "02183edcc94de3f0208fd993fc4ac1e328c9f5a65f32a7439c964ea841acd1e0"
+    },
+    "overdrive": {
+      "upstreamSkill": "overdrive",
+      "upstreamSkillMdHash": "12d5103036e5e90fe5ec0d55cc0f16d88e1cc9e3ff77cb704d686e4ee9c1c48b",
+      "bundledReferenceHash": "06763b12d62a6f4683fec988d45bbfedd91bd956bc58f0a5a06666865eeac977"
+    },
+    "polish": {
+      "upstreamSkill": "polish",
+      "upstreamSkillMdHash": "8d9749d77b82d040ce035b4949ef64c17b86fb56e1970b531c22c087635c40db",
+      "bundledReferenceHash": "284489d1b7b927a93b2d4b9f4bcd371cb9c3fab0f2fa4c7a13403d8fa7343bfd"
+    },
+    "quieter": {
+      "upstreamSkill": "quieter",
+      "upstreamSkillMdHash": "60c2e797da69ab1240b95d5e1431b24f1d0d7267e5ad4bd78456abd338fb7907",
+      "bundledReferenceHash": "a752c21e50e7fe7a30c366a26525849ba291244af10ef71c34981ef3ca856f85"
+    },
+    "shape": {
+      "upstreamSkill": "shape",
+      "upstreamSkillMdHash": "20ac5e5abf2f4eee3fadaec9cf9b6b555cba9a90b0707f98bfe770dce2ace542",
+      "bundledReferenceHash": "3e365dbeea25d07b11e21d70d443a838aec0ec8308437ad2bf550473b9813910"
+    },
+    "typeset": {
+      "upstreamSkill": "typeset",
+      "upstreamSkillMdHash": "5668819ccd89c27b2d6634a674a630beb41357c17b3c4a7e209084efe50170b7",
+      "bundledReferenceHash": "3c768121e8023b3b86c0559976108013b8a6902c9f472617f246c43cedb0cb3f"
+    }
+  },
+  "bundleSkillMdHash": "6493c38f090017de08a748a70d277a694b0c03528e143d945cf7d422d579c73f"
+}
